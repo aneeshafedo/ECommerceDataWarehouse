@@ -12,9 +12,9 @@ Brazilian E-Commerce Public Dataset by Olist acquired through Kaggle - https://w
 
 # Technologies and Tools Used #
 
-*SQL Server Management Studio 2017
-*SQL Server Data Tools
-*SQL Server Reporting Service
+* SQL Server Management Studio 2017
+* SQL Server Data Tools
+* SQL Server Reporting Service
 
 
 # Data Warehouse Schema #
